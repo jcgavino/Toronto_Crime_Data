@@ -13,4 +13,7 @@ Top of mind, the following are the questions we want to answer
 The analysis mainly made use of Tableau to develop visualization of the data
 
 ## Analysis 
-![Main Crime Trend](https://github.com/jcgavino/Toronto_Crime_Data/blob/main/MCI%20Story.png=250x250)
+<img src="https://github.com/jcgavino/Toronto_Crime_Data/blob/main/MCI%20Story.png" width="400" height="400">
+There has been a concerning increase in the number of crime in Toronto.
+The most prevalent are **Assault**, **Auto-theft**, and **Break and Enter**.
+
