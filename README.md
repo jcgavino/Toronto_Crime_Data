@@ -57,10 +57,10 @@ It is interesting to note that noon time during weekdays is also when lots of cr
 
 ## Conclusion
 ### Insight
-   In Toronto, there's a rise in crime rates, especially in Assault, Auto-theft, and Break and Enter categories. It's crucial to stay vigilant, especially in identified neighborhoods, both during the evenings and midday. Car theft is also on the rise, so it's essential for car owners to be prepared and ensure the safety of their belongings.
+In Toronto, there's a rise in crime rates, especially in Assault, Auto-theft, and Break and Enter categories. It's crucial to stay vigilant, especially in identified neighborhoods, both during the evenings and midday. Car theft is also on the rise, so it's essential for car owners to be prepared and ensure the safety of their belongings.
 
 ### Closing
-    The project provided me with the opportunity to acquire proficiency in utilizing Tableau for communicating insights derived from data in a concise and structured fashion. By grasping the principles of effective visualization and graph creation, I am able to articulate discoveries in a manner that is accessible and comprehensible, even to individuals without technical backgrounds.
+The project provided me with the opportunity to acquire proficiency in utilizing Tableau for communicating insights derived from data in a concise and structured fashion. By grasping the principles of effective visualization and graph creation, I am able to articulate discoveries in a manner that is accessible and comprehensible, even to individuals without technical backgrounds.
 
 
 
